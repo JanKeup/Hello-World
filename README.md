@@ -31,4 +31,4 @@ Um eine Codezelle auszuführen, klicken Sie auf die Zelle, um sie auszuwählen, 
 Das war's! Sie haben erfolgreich das großartigsten Stück Software ausgeführt!
 
 #### Screenshot des Ergebnisses:
-<img width="1434" alt="Bildschirmfoto" src="https://github.com/JanKeup/Hello-World/assets/94123901/dd77b464-d841-462c-82e7-554f475279ef">
+<img width="1434" alt="Bildschirmfoto" src="https://github.com/JanKeup/Hello-World/assets/94123901/bcf2e172-28da-428f-8059-0f1e32fa5e64">
