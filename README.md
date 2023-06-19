@@ -5,7 +5,12 @@ Dieses README-Dokument enthält eine Schritt-für-Schritt-Anleitung zum Herunter
 
 ### Voraussetzungen
 
+Jupyter Notebook ist eine Vorraussetzung
+
 Sie können Jupyter Notebook mit dem Befehl pip install jupyter über die Kommandozeile installieren.
+
+Alternativ: Verwenden Sie eine Anwendung wie Google Colab.
+
 
 ### Schritt 1: IPYNB-Notebook herunterladen
 
@@ -14,8 +19,6 @@ Wählen Sie einen geeigneten Speicherort auf Ihrem lokalen System aus und klicke
 ### Schritt 2: Jupyter Notebook starten
 
 Starten Sie Jupiter Notebook über Ihre bevorzugte Methode.
-
-Alternativ: Verwenden Sie eine Anwendung wie Google Colab.
 
 ### Schritt 3: IPYNB-Notebook öffnen und ausführen
 
